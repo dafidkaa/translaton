@@ -1,0 +1,35 @@
+# WordPress Translation File
+# This file contains various types of content including HTML
+
+msgid ""
+msgstr ""
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Welcome to our website"
+msgstr ""
+
+msgid "Click here to continue"
+msgstr ""
+
+msgid "<p>Hvala vam što stvarate s WordPressom.</p>"
+msgstr ""
+
+msgid "Thank you for creating with WordPress"
+msgstr ""
+
+msgid "<p>This is a meaningful paragraph with useful content.</p>"
+msgstr ""
+
+msgid "Contact us for more information"
+msgstr ""
+
+msgid "<!-- This is a comment -->"
+msgstr ""
+
+msgid "<script>alert('test');</script>"
+msgstr ""
+
+msgid "About Us"
+msgstr ""

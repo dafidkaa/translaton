@@ -1,0 +1,20 @@
+{
+  "welcome_message": "Welcome to our website",
+  "login_button": "Login",
+  "signup_button": "Sign Up",
+  "about_us": "About Us",
+  "contact_info": "Contact Information",
+  "footer_text": "© 2024 Universal Translator. All rights reserved.",
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "blog": "Blog"
+  },
+  "form_labels": {
+    "name": "Full Name",
+    "email": "Email Address",
+    "message": "Your Message",
+    "submit": "Send Message"
+  }
+}

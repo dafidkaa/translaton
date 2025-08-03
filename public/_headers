@@ -1,0 +1,53 @@
+# Netlify headers for optimal caching and performance
+
+/*
+  # Security headers
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: origin-when-cross-origin
+  X-XSS-Protection: 1; mode=block
+  
+  # Performance headers
+  X-DNS-Prefetch-Control: on
+  
+  # Cache control for HTML
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Static assets - long term caching
+/favicon.ico
+  Cache-Control: public, max-age=31536000, immutable
+  
+/icon-*.png
+  Cache-Control: public, max-age=31536000, immutable
+  
+/logo.png
+  Cache-Control: public, max-age=31536000, immutable
+
+# JavaScript and CSS - long term caching with versioning
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+  
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Fonts - long term caching
+*.woff2
+  Cache-Control: public, max-age=31536000, immutable
+  
+*.woff
+  Cache-Control: public, max-age=31536000, immutable
+
+# Service worker
+/sw.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+# API routes - no caching
+/api/*
+  Cache-Control: no-cache, no-store, must-revalidate
+  
+# Sitemap and robots - short term caching
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+  
+/robots.txt
+  Cache-Control: public, max-age=3600

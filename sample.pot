@@ -1,0 +1,104 @@
+# WordPress Translation Template File
+# Copyright (C) 2024 WordPress
+# This file is distributed under the same license as the WordPress package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress 6.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/\n"
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: wp-admin/admin.php:123
+msgid "Dashboard"
+msgstr ""
+
+#: wp-admin/admin.php:124
+msgid "Posts"
+msgstr ""
+
+#: wp-admin/admin.php:125
+msgid "Media"
+msgstr ""
+
+#: wp-admin/admin.php:126
+msgid "Pages"
+msgstr ""
+
+#: wp-admin/admin.php:127
+msgid "Comments"
+msgstr ""
+
+#: wp-admin/admin.php:128
+msgid "Appearance"
+msgstr ""
+
+#: wp-admin/admin.php:129
+msgid "Plugins"
+msgstr ""
+
+#: wp-admin/admin.php:130
+msgid "Users"
+msgstr ""
+
+#: wp-admin/admin.php:131
+msgid "Tools"
+msgstr ""
+
+#: wp-admin/admin.php:132
+msgid "Settings"
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:45
+msgid "Welcome to WordPress"
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:46
+msgid "Thank you for creating with WordPress."
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:47
+msgid "Search for:"
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:48
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:49
+msgid "Most Used Categories"
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:50
+msgid "Try looking in the monthly archives."
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:51
+msgid "Archives"
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:52
+msgid "Meta"
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:53
+msgid "Log in"
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:54
+msgid "Entries feed"
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:55
+msgid "Comments feed"
+msgstr ""
+
+#: wp-content/themes/twentytwentyfour/functions.php:56
+msgid "WordPress.org"
+msgstr ""
